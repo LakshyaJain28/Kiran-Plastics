@@ -1,0 +1,97 @@
+body{
+    text-align: center;
+}
+img{
+    width: 30px;
+}
+#home{
+    background-color: #B2DFDB;
+}
+.container
+{
+    text-align: center;
+}
+#myCarousel {
+    height: 600px;
+}
+#myCarousel img{
+    width: 700px;
+    margin-top: 35px;
+}
+.carousel-inner p{
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: white;
+    font-size: 20px;
+}
+h1{
+    font-size: 35px;
+    font-weight: bold;
+    font-style: italic;
+}
+p{
+    text-align: center;
+    font-size: 15px;
+    padding: 55px;
+}
+h2{
+    font-weight: bold;
+    padding: 5px;
+}
+h3{
+    font-size: 15px;
+}
+h4{
+    font-size: 15px;
+    padding: 30px;
+}
+#ourproduct{
+    background-color: #FFCCBC;
+}
+h5 {
+    font-size: 35px;
+    font-weight: bold;
+}
+h6{
+    font-size: 18px;
+    font-weight: bold;
+    font-style: italic;
+}
+#tea{
+    width: 370px;
+}
+#quality{
+    background-color: #FFF59D;
+}
+h7{
+  font-size: 35px;
+    font-weight: bold;
+}
+h8{
+    font-size: 20px;
+    font-weight: bold;
+}
+h9{
+    font-size:15px;
+    padding: 0px;
+}
+#dot{
+    width: 5px;
+}
+#designing{
+    background-color: #B39DDB;
+}
+h10{
+    font-size: 35px;
+    font-weight: bold;
+}
+#reachus{
+    background-color: #B9F6CA;
+}
+h11{
+    font-size: 30px;
+    font-weight: bold;
+}
+h12{
+    font-size: 15px;
+}
